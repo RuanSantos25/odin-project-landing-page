@@ -1,1 +1,1 @@
-# odin-project-landing-page
+# A website using all the resources we have learned so far in the Odin Project Foundations Course.
