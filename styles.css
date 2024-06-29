@@ -8,3 +8,9 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.header-left {
+    font-size: 24px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
