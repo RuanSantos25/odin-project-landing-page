@@ -59,3 +59,13 @@ body {
     font-size: 18px;
     font-weight: 900;
 }
+
+.hero-right {
+    background-color: gray;
+    color: #F9FAF8;
+    width: 500px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
