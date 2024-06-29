@@ -27,3 +27,10 @@ body {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.hero-container {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 450px 120px;
+}
