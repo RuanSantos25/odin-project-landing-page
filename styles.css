@@ -51,8 +51,6 @@ body {
 }
 
 #hero-button {
-    display: flex;
-    align-self: flex-start;
     margin-top: 12px;
     background-color: #3882F6;
     border: none;
