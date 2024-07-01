@@ -106,3 +106,11 @@ body {
     color: #1F2937;
     text-align-last: center;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 0px 80px;
+}
