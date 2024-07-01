@@ -122,3 +122,12 @@ body {
     color: #1F2937;
     width: 820px;
 }
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 900;
+    width: 820px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
