@@ -101,3 +101,8 @@ body {
     border: 4px solid #3882F6;
     border-radius: 15px;
 }
+
+.box-text {
+    color: #1F2937;
+    text-align-last: center;
+}
