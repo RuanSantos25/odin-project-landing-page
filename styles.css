@@ -3,11 +3,19 @@ body {
     font-family: roboto, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header-container {
+.header-and-hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: #1F2937;
+    gap: 24px;
+}
+
+.header-container {
     display: flex;
     justify-content: space-between;
-    padding: 24px 450px 120px;
+    padding-top: 24px;
+    gap: 530px;
 }
 
 .header-left {
@@ -28,10 +36,10 @@ body {
 }
 
 .hero-container {
-    background-color: #1F2937;
     display: flex;
     justify-content: space-between;
-    padding: 24px 450px 120px;
+    padding-bottom: 120px;
+    gap: 150px;
 }
 
 .hero-left {
