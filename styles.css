@@ -131,3 +131,9 @@ body {
     justify-content: flex-end;
     padding-right: 20px;
 }
+
+.call-container {
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px;
+}
