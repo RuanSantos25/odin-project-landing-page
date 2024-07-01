@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding-top: 24px;
-    gap: 530px;
+    width: 1100px;
 }
 
 .header-left {
@@ -39,7 +39,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding-bottom: 120px;
-    gap: 150px;
+    width: 1100px;
 }
 
 .hero-left {
